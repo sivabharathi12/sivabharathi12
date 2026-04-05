@@ -1,22 +1,22 @@
 # 👋 Hi, I'm Sivabharathi T
 
-🎯 Aspiring Business Analyst | Data Analytics Enthusiast
+🎯 Marketing Student | Aspiring Business Analyst | Data Analytics Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-I am passionate about using data to solve real-world business problems.
-My work focuses on transforming raw data into actionable insights that improve decision-making.
+I am a marketing student passionate about using data analytics to solve real-world business problems.
+I focus on combining **marketing strategy with data-driven insights** to improve customer experience, optimize operations, and support decision-making.
 
 ---
 
 ## 💼 What I Do
 
-* 📊 Data Analysis & Visualization
-* 🤖 Machine Learning Models
-* 📈 Demand Forecasting & Optimization
-* 📉 Customer Analytics (Churn, Segmentation)
+* 📊 Data Analysis & Business Insights
+* 📈 Marketing Analytics & Customer Behavior
+* 🤖 Machine Learning for Business Problems
+* 📉 Demand Forecasting & Optimization
 
 ---
 
@@ -24,34 +24,34 @@ My work focuses on transforming raw data into actionable insights that improve d
 
 ### 🔹 Customer Churn Prediction
 
-* Built ML model using XGBoost
-* Achieved **82% recall** in identifying churners
-* Focused on customer retention strategy
+* Built ML model using XGBoost to predict customer churn
+* Achieved **82% recall** in identifying at-risk customers
+* 💡 Marketing Insight: Helps design targeted retention campaigns
 
 ---
 
 ### 🔹 Demand Forecasting & Inventory Optimization
 
-* Time series forecasting using SARIMA
-* Inventory optimization using service-level approach
-* Demonstrated cost vs service trade-off
+* Forecasted demand using SARIMA time series model
+* Optimized inventory using service-level approach
+* 💡 Business Insight: Balanced cost vs service level for better operations
 
 ---
 
 ### 🔹 ChatGPT Reviews Analysis
 
-* NLP-based sentiment analysis
-* Extracted insights from user feedback
-* Identified key satisfaction drivers
+* Performed sentiment analysis on user reviews
+* Identified key drivers of customer satisfaction
+* 💡 Marketing Insight: Helps improve product positioning and user experience
 
 ---
 
 ## 🧠 Skills
 
-* Python (Pandas, NumPy, Scikit-learn)
-* Data Visualization (Matplotlib)
-* Machine Learning
-* Time Series Analysis
+* Data Analysis (Pandas, NumPy)
+* Machine Learning (Scikit-learn, XGBoost)
+* Time Series Forecasting
+* Marketing Analytics
 * Business Problem Solving
 
 ---
@@ -63,6 +63,15 @@ My work focuses on transforming raw data into actionable insights that improve d
 * Git & GitHub
 
 ---
+
+## 🎯 Career Focus
+
+I aim to work in roles that combine:
+
+* Marketing Strategy
+* Data Analytics
+* Business Intelligence
+
 
 ## 📫 Connect With Me
 
